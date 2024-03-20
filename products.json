@@ -1,0 +1,66 @@
+
+[   {
+    "id": 1,
+    "productimage": "https://drive.google.com/uc?export=view&id=1xE3tSWnN36rb9aRXKMkewMb2US2TN6Q4",
+    "productname": "strawberry",
+    "productprice": 100,
+    "counttype": "1 per kg",
+    "discountpercent": 10
+  },
+  {
+    "id": 2,
+    "productimage": "https://drive.google.com/uc?export=view&id=1CEEXrPgeCw9gpcgW3M7cPF10bISAA99c",
+    "productname": "orange",
+    "productprice": 200,
+    "counttype": "1 per kg",
+    "discountpercent": 12
+  },
+  {
+    "id": 3,
+    "productimage": "https://drive.google.com/uc?export=view&id=11K_0a2H3benCc1RSnqjGHvlMakFDHXSg",
+    "productname": "papaya",
+    "productprice": 150,
+    "counttype": "1 per kg",
+    "discountpercent": 8
+  },
+  {
+    "id": 4,
+    "productimage": "https://drive.google.com/uc?export=view&id=1AdhjB7ITSPUayEbwlQXB8Bws7tw6ZWn-",
+    "productname": "Guava",
+    "productprice": 70,
+    "counttype": "1 per kg",
+    "discountpercent": 5
+  },
+  {
+    "id": 5,
+    "productimage": "https://drive.google.com/uc?export=view&id=1Zv0qhYkJmepCyH-OomM6LDpE0Sn1X6vr",
+    "productname": "grapes",
+    "productprice": 300,
+    "counttype": "1 per kg",
+    "discountpercent": 20
+  },
+  {
+    "id": 6,
+    "productimage": "https://drive.google.com/uc?export=view&id=1xE3tSWnN36rb9aRXKMkewMb2US2TN6Q4",
+    "productname": "strawberry",
+    "productprice": 170,
+    "counttype": "1 per kg",
+    "discountpercent": 15
+  },
+  {
+    "id": 7,
+    "productimage": "https://drive.google.com/uc?export=view&id=1CEEXrPgeCw9gpcgW3M7cPF10bISAA99c",
+    "productname": "orange",
+    "productprice": 180,
+    "counttype": "1 per kg",
+    "discountpercent": 12
+  },
+  {
+    "id": 8,
+    "productimage": "https://drive.google.com/uc?export=view&id=11K_0a2H3benCc1RSnqjGHvlMakFDHXSg",
+    "productname": "papaya",
+    "productprice": 150,
+    "counttype": "1 per kg",
+    "discountpercent": 19
+  }
+]
